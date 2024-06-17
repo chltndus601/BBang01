@@ -52,6 +52,17 @@
 |![IMG_6502](https://github.com/chltndus601/BBang01/assets/107230436/48193dc9-029c-4054-822f-5deee193f96e)|![IMG_6509](https://github.com/chltndus601/BBang01/assets/107230436/cfa3c87f-18d9-4a94-8800-c7ea3f2a7eb7)|![IMG_6496](https://github.com/chltndus601/BBang01/assets/107230436/b20edba6-a43a-49d2-b280-2ff05678a4d2)|
 |:---:|:---:|:---:|
 |조면기 상단|조면기 하단|조면기 출구|
+
+### 조면기 상단<br/>
+사용자는 목화솜을 직접 집어서 조면기 상단에서 떨어뜨린다. 떨어뜨린 경우 목화솜은 상판과 부딪히며 작은 여러개의 목화로 쪼개진다.<br/>
+<br/>
+
+### 조면기 하단<br/>
+아아아아아<br/>
+<br/>
+
+### 조면기 출구<br/>
+아아아아아
 <br/>
 
 - 솜틀기 주요 기능 실행
