@@ -49,7 +49,7 @@
 
 - 조면기 주요 기능 실행
 
-|![IMG_6502](https://github.com/chltndus601/BBang01/assets/107230436/48193dc9-029c-4054-822f-5deee193f96e)|![IMG_6509](https://github.com/chltndus601/BBang01/assets/107230436/cfa3c87f-18d9-4a94-8800-c7ea3f2a7eb7)|![IMG_6496](https://github.com/chltndus601/BBang01/assets/107230436/fd5e199d-df62-4f1b-b980-8c027d5b9a19)|
+|![IMG_6502](https://github.com/chltndus601/BBang01/assets/107230436/48193dc9-029c-4054-822f-5deee193f96e)|![IMG_6509](https://github.com/chltndus601/BBang01/assets/107230436/cfa3c87f-18d9-4a94-8800-c7ea3f2a7eb7)|![IMG_6496](https://github.com/chltndus601/BBang01/assets/107230436/b20edba6-a43a-49d2-b280-2ff05678a4d2)|
 |:---:|:---:|:---:|
 |조면기 상단|조면기 하단|조면기 출구|
 <br/>
@@ -62,6 +62,7 @@
 <br/>
 
 ## 기여도 정리
+
 
 
 
