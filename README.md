@@ -47,4 +47,22 @@
 |오른손|B|시점을 이동시켜주는 텔레포트 가능|
 <br/>
 
+- 조면기 주요 기능 실행
+
+|![IMG_6502](https://github.com/chltndus601/BBang01/assets/107230436/48193dc9-029c-4054-822f-5deee193f96e)|![IMG_6509](https://github.com/chltndus601/BBang01/assets/107230436/cfa3c87f-18d9-4a94-8800-c7ea3f2a7eb7)|![IMG_6496](https://github.com/chltndus601/BBang01/assets/107230436/fd5e199d-df62-4f1b-b980-8c027d5b9a19)|
+|:---:|:---:|:---:|
+|조면기 상단|조면기 하단|조면기 출구|
+<br/>
+
+- 솜틀기 주요 기능 실행
+
+|![IMG_6506](https://github.com/chltndus601/BBang01/assets/107230436/866f3dbd-952b-48fc-9350-c9fa0ea00d2e)|![IMG_6497](https://github.com/chltndus601/BBang01/assets/107230436/0e4a3174-3f25-4b13-a635-8705cf714dd4)|
+|:---:|:---:|
+|솜틀기 입구|솜틀기 출구|
+<br/>
+
 ## 기여도 정리
+
+
+
+
