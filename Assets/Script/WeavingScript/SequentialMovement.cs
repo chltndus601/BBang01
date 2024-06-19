@@ -1,5 +1,5 @@
 // weavingScene
-// by eunji
+// by eunji, dayoung
 
 //Final code : 솜틀기에서 솜이 들어가고 대기 시간 후 이불이 나오는 코드
 using UnityEngine;
