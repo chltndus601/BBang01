@@ -1,3 +1,6 @@
+// cottonginScene, weavingScene
+// by haeun, sooyeon, dayoung
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
